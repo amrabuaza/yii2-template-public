@@ -1,0 +1,8 @@
+*, body {
+    direction: rtl !important
+}
+
+.row [class*=col-] {
+    float: right
+}
+
